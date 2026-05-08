@@ -42,8 +42,10 @@ int datatype with amount variable
 base case cheak krenge ki agar amount == 0 then return 0;
 
 
-*/
+Agar amount < 0 hai int variable name MincoinAns = INT_MAX
 
+
+*/
 
 #include<iostream>
 using namespace std;
